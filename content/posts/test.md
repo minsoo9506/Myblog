@@ -6,7 +6,7 @@ draft: false
 tags: ["test", "first"]
 categories: ["PRML", "CS fundamental"]
 ---
-hi This is minsoo's blog ~
+This is minsoo's blog ~
 <!--more-->
 
 ## 1 part1
