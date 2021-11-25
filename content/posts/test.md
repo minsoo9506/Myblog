@@ -9,12 +9,12 @@ categories: ["PRML", "CS fundamental"]
 This is minsoo's blog ~
 <!--more-->
 
-## 1 part1
+## part1
 `code`
 
-### 1.1 dfd
+### dfd
 
-## 2 part2
+## part2
 ```python
 print("Hello world")
 ```
